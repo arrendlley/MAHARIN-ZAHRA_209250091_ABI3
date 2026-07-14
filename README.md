@@ -205,22 +205,6 @@ Didukung pada:
 
 ---
 
-## Cara Menjalankan Project
-
-1. Clone repository GitHub.
-
-```
-git clone https://github.com/arrendlley/MAHARIN-ZAHRA_209250091_ABI3.git
-```
-
-2. Masuk ke folder project.
-
-3. Buka file **index.html** menggunakan browser.
-
-Website siap dijalankan.
-
----
-
 ## Repository GitHub
 
 https://github.com/arrendlley/MAHARIN-ZAHRA_209250091_ABI3
