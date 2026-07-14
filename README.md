@@ -1,79 +1,148 @@
-# ARRÉNDLLÉY
-### Luxury Minimalist Women's Bag E-Commerce Website
+<img width="1440" height="900" alt="Screenshot 2026-07-14 at 14 44 18" src="https://github.com/user-attachments/assets/8ecbfe79-ca8e-483d-bdd9-91a2ed94d779" /># ARRÉNDLLÉY
+## Luxury Minimalist Women's Bag E-Commerce Website
 
-## 📖 Deskripsi Proyek
-
-ARRÉNDLLÉY merupakan website e-commerce yang dirancang untuk memasarkan tas wanita premium dengan konsep **Luxury Minimalist**. Website ini memiliki tampilan modern, elegan, dan responsif sehingga dapat diakses dengan baik melalui perangkat desktop maupun mobile.
-
-Website ini dibuat sebagai tugas Ujian Akhir Semester (UAS) dengan tujuan menerapkan konsep dasar pengembangan website menggunakan HTML, CSS, dan JavaScript.
+> Final Project - Ujian Akhir Semester (UAS)
 
 ---
 
-# 🎯 Tujuan Pembuatan
+# 📖 Business Documentation
 
-- Membuat website e-commerce yang menarik dan responsif.
-- Menampilkan katalog produk secara informatif.
-- Memberikan pengalaman pengguna (User Experience) yang nyaman.
-- Mengimplementasikan Responsive Web Design pada desktop dan mobile.
+## Deskripsi Proyek
 
----
+ARRÉNDLLÉY merupakan website e-commerce yang menjual berbagai koleksi tas wanita premium dengan konsep **Luxury Minimalist**. Website ini dirancang untuk memberikan pengalaman berbelanja yang sederhana, elegan, dan mudah digunakan oleh pengguna.
 
-# 👩‍💼 Informasi Proyek
-
-**Nama Website**
-ARRÉNDLLÉY
-
-**Konsep**
-Luxury Minimalist
-
-**Target Pengguna**
-Wanita yang menyukai tas dengan desain elegan, modern, dan premium.
+Website menampilkan berbagai informasi mengenai produk, mulai dari katalog, produk best seller, informasi perusahaan, testimoni pelanggan, hingga halaman kontak. Selain memiliki tampilan yang modern, website juga telah menerapkan **Responsive Web Design** sehingga dapat diakses dengan baik melalui perangkat desktop maupun mobile.
 
 ---
 
-# ✨ Fitur Website
+## Latar Belakang
 
-- Responsive Desktop dan Mobile
-- Halaman Beranda (Home)
-- Halaman Koleksi Produk
-- Halaman Best Seller
-- Halaman Tentang Kami
-- Halaman Testimoni Pelanggan
-- Halaman Kontak
+Perkembangan teknologi digital telah mengubah kebiasaan masyarakat dalam berbelanja. Saat ini pelanggan lebih memilih melakukan pembelian secara online karena lebih praktis, cepat, dan mudah diakses kapan saja.
+
+ARRÉNDLLÉY hadir sebagai solusi dengan menyediakan platform penjualan tas wanita premium yang mampu memberikan informasi produk secara lengkap sekaligus menghadirkan pengalaman pengguna yang nyaman melalui tampilan website yang modern dan responsif.
+
+---
+
+## Tujuan Website
+
+Website ini dibuat dengan tujuan untuk:
+
+- Menampilkan katalog produk secara digital.
+- Mempermudah pelanggan mencari produk.
+- Memperkenalkan brand ARRÉNDLLÉY.
+- Memberikan informasi mengenai produk unggulan.
+- Menampilkan testimoni pelanggan.
+- Menyediakan media komunikasi antara pelanggan dan penjual.
+
+---
+
+## Target Pengguna
+
+Target pengguna website ARRÉNDLLÉY meliputi:
+
+- Wanita usia 18–40 tahun.
+- Pengguna yang menyukai fashion dengan konsep minimalis.
+- Pelanggan yang ingin berbelanja secara online.
+- Pengguna yang mengutamakan kualitas produk premium.
+
+---
+
+# Fitur Website
+
+Website memiliki beberapa fitur utama, yaitu:
+
+- Beranda (Home)
+- Koleksi Produk
+- Best Seller
+- Tentang Kami
+- Testimoni Pelanggan
+- Kontak
+- Sticky Navigation
+- Kolom Pencarian Produk
 - Slider Produk
-- Search Produk
 - Filter Produk
 - Wishlist
 - Keranjang Belanja
-- Akun Pengguna
-- Sticky Navigation Bar
-- Footer Informasi
+- Responsive Design
 
 ---
 
-# 📄 Penjelasan Halaman
+# Penjelasan Halaman
 
-## 1. Beranda
-Menampilkan identitas brand ARRÉNDLLÉY, slogan, banner utama, tombol navigasi, kolom pencarian, serta slider produk unggulan.
+## 🏠 Beranda
 
-## 2. Koleksi
-Berisi seluruh produk yang tersedia lengkap dengan kategori, spesifikasi, rating, stok, dan harga.
+Halaman pertama yang ditampilkan ketika website dibuka.
 
-## 3. Best Seller
-Menampilkan produk-produk yang paling diminati pelanggan menggunakan tampilan slider.
+Berisi:
 
-## 4. Tentang Kami
-Menjelaskan keunggulan ARRÉNDLLÉY seperti material premium, desain elegan, harga kompetitif, pengiriman cepat, dan pelayanan terbaik.
-
-## 5. Testimoni
-Berisi ulasan pelanggan sebagai bentuk kepercayaan terhadap kualitas produk.
-
-## 6. Kontak
-Menyediakan informasi WhatsApp, Email, Instagram, dan alamat toko.
+- Logo ARRÉNDLLÉY
+- Menu Navigasi
+- Banner
+- Slogan
+- Tombol Jelajahi Koleksi
+- Tombol Lihat Best Seller
+- Slider Produk
+- Kolom Pencarian
 
 ---
 
-# 💻 Teknologi yang Digunakan
+## 👜 Koleksi
+
+Menampilkan seluruh produk yang tersedia lengkap dengan:
+
+- Foto Produk
+- Nama Produk
+- Rating
+- Material
+- Warna
+- Ukuran
+- Stok
+- Harga
+
+Pengguna juga dapat menggunakan fitur pencarian dan filter produk.
+
+---
+
+## ⭐ Best Seller
+
+Menampilkan produk yang paling diminati pelanggan menggunakan slider sehingga pengguna dapat melihat produk secara lebih interaktif.
+
+---
+
+## ❤️ Tentang Kami
+
+Menjelaskan keunggulan ARRÉNDLLÉY, antara lain:
+
+- Material Premium
+- Desain Elegan
+- Harga Kompetitif
+- Pengiriman Cepat
+- Pelayanan Ramah
+
+---
+
+## 💬 Testimoni
+
+Menampilkan ulasan pelanggan mengenai pengalaman menggunakan produk ARRÉNDLLÉY.
+
+---
+
+## 📞 Kontak
+
+Menyediakan informasi:
+
+- WhatsApp
+- Email
+- Instagram
+- Alamat
+
+---
+
+# Technical Explanation
+
+## Teknologi yang Digunakan
+
+Website dibangun menggunakan teknologi berikut:
 
 - HTML5
 - CSS3
@@ -83,9 +152,51 @@ Menyediakan informasi WhatsApp, Email, Instagram, dan alamat toko.
 
 ---
 
-# 📱 Responsive Design
+## Struktur Folder
 
-Website telah dirancang menggunakan konsep Responsive Web Design sehingga dapat menyesuaikan ukuran layar pada:
+```
+MAHARIN-ZAHRA_209250091_ABI3
+│
+├── index.html
+├── README.md
+│
+├── assets
+│   ├── css
+│   │     └── style.css
+│   │
+│   ├── js
+│   │     └── script.js
+│   │
+│   ├── images
+│   │
+│   └── icons
+```
+
+---
+
+## Warna Website
+
+| Warna | Kode |
+|-------|------|
+| Maroon | #5A0F18 |
+| White | #FFFFFF |
+| Black | #111111 |
+| Gold | #D6B25E |
+
+---
+
+## Font
+
+- Playfair Display
+- Poppins
+
+---
+
+## Responsive Design
+
+Website telah menerapkan Responsive Web Design sehingga mampu menyesuaikan tampilan pada berbagai ukuran layar.
+
+Didukung pada:
 
 - Desktop
 - Laptop
@@ -94,106 +205,71 @@ Website telah dirancang menggunakan konsep Responsive Web Design sehingga dapat 
 
 ---
 
-# 🎨 Warna Website
+## Cara Menjalankan Project
 
-| Warna | Kode |
-|--------|------|
-| Maroon | #5A0F18 |
-| White | #FFFFFF |
-| Black | #111111 |
-| Gold Accent | #D6B25E |
-
----
-
-# 🔤 Font
-
-- Poppins
-- Playfair Display
-
----
-
-# 📂 Struktur Folder
+1. Clone repository GitHub.
 
 ```
-ARRÉNDLLÉY/
-│
-├── index.html
-├── css/
-│   ├── style.css
-│
-├── js/
-│   ├── script.js
-│
-├── images/
-│   ├── banner
-│   ├── produk
-│   └── icon
-│
-└── README.md
+git clone https://github.com/arrendlley/MAHARIN-ZAHRA_209250091_ABI3.git
 ```
 
----
+2. Masuk ke folder project.
 
-# 🚀 Cara Menjalankan Website
+3. Buka file **index.html** menggunakan browser.
 
-1. Download atau clone repository GitHub.
-2. Buka folder project.
-3. Jalankan file **index.html** menggunakan browser.
-4. Website siap digunakan.
+Website siap dijalankan.
 
 ---
-
-# 🌐 Link Project
 
 ## Repository GitHub
 
-Tambahkan link repository GitHub di sini.
-
-```
-https://github.com/username/repository
-```
-
-## GitHub Pages
-
-Tambahkan link GitHub Pages di sini.
-
-```
-https://username.github.io/repository
-```
+https://github.com/arrendlley/MAHARIN-ZAHRA_209250091_ABI3
 
 ---
 
-# 👩‍🎓 Identitas Mahasiswa
+## GitHub Pages (Live Website)
 
-**Nama**
-Maharin Zahra
-
-**Program Studi**
-Administrasi Bisnis
-
-**Universitas**
-International Women University (IWU)
+https://arrendlley.github.io/MAHARIN-ZAHRA_209250091_ABI3/
 
 ---
 
-# 📌 Catatan
+# Screenshot
 
-Website ini dibuat sebagai tugas Ujian Akhir Semester (UAS) dan bertujuan untuk memenuhi penilaian mata kuliah Pengembangan Website. Seluruh tampilan dirancang dengan konsep Luxury Minimalist agar memberikan pengalaman pengguna yang sederhana, elegan, dan mudah digunakan.
+Berikut dokumentasi tampilan website:
+
+- Beranda Desktop
+- Koleksi Desktop
+- Beranda Mobile
+- Koleksi Mobile
+
+*(<img width="1440" height="900" alt="Screenshot 2026-07-14 at 14 44 18" src="https://github.com/user-attachments/assets/f3ce5ae2-fda0-4ba4-a6b7-d5669f934648" />.)* 
+*(<img width="1440" height="900" alt="Screenshot 2026-07-14 at 14 44 53" src="https://github.com/user-attachments/assets/c63b701a-b494-4a43-bb9c-7cac07f60f0a" />.)*
+*(<img width="739" height="1600" alt="image" src="https://github.com/user-attachments/assets/df809c76-6852-4fac-8cd3-33a90c971210" />.)* 
+*(<img width="739" height="1600" alt="image" src="https://github.com/user-attachments/assets/b5791bb0-fd7d-4071-b362-41f30804f328" />.)* 
+
 
 ---
 
-# 📷 Tampilan Website
+# Pengembang
 
-Tambahkan screenshot berikut pada repository GitHub:
+**Nama :** Maharin Zahra
 
-- Halaman Beranda (Desktop)
-- Halaman Koleksi (Desktop)
-- Halaman Beranda (Mobile)
-- Halaman Koleksi (Mobile)
+**NIM :** 209250091
+
+**Program Studi :** Administrasi Bisnis
+
+**Universitas :** International Women University
 
 ---
 
-# ❤️ Terima Kasih
+# Kesimpulan
 
-Terima kasih telah mengunjungi repository proyek ARRÉNDLLÉY.
-Semoga website ini dapat memberikan gambaran mengenai implementasi website e-commerce yang responsif, modern, dan mudah digunakan.
+Website ARRÉNDLLÉY berhasil dikembangkan sebagai website e-commerce sederhana dengan konsep Luxury Minimalist. Website memiliki tampilan yang responsif sehingga dapat digunakan pada perangkat desktop maupun mobile. Selain itu, website menyediakan berbagai fitur seperti pencarian produk, filter produk, slider best seller, testimoni pelanggan, dan halaman kontak yang mendukung kemudahan pengguna dalam memperoleh informasi mengenai produk.
+
+---
+
+# Lisensi
+
+Project ini dibuat untuk keperluan akademik sebagai tugas Ujian Akhir Semester (UAS).
+
+© 2026 Maharin Zahra. All Rights Reserved.
