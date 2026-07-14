@@ -242,10 +242,10 @@ Berikut dokumentasi tampilan website:
 - Beranda Mobile
 - Koleksi Mobile
 
-*(<img width="400" height="900" alt="Screenshot 2026-07-14 at 14 44 18" src="https://github.com/user-attachments/assets/f3ce5ae2-fda0-4ba4-a6b7-d5669f934648" />.)* 
-*(<img width="400" height="900" alt="Screenshot 2026-07-14 at 14 44 53" src="https://github.com/user-attachments/assets/c63b701a-b494-4a43-bb9c-7cac07f60f0a" />.)*
-*(<img width="200" height="1600" alt="image" src="https://github.com/user-attachments/assets/df809c76-6852-4fac-8cd3-33a90c971210" />.)* 
-*(<img width="200" height="1600" alt="image" src="https://github.com/user-attachments/assets/b5791bb0-fd7d-4071-b362-41f30804f328" />.)* 
+*(<img width="400" height="250" alt="Screenshot 2026-07-14 at 14 44 18" src="https://github.com/user-attachments/assets/f3ce5ae2-fda0-4ba4-a6b7-d5669f934648" />.)* 
+*(<img width="400" height="250" alt="Screenshot 2026-07-14 at 14 44 53" src="https://github.com/user-attachments/assets/c63b701a-b494-4a43-bb9c-7cac07f60f0a" />.)*
+*(<img width="200" height="433" alt="image" src="https://github.com/user-attachments/assets/df809c76-6852-4fac-8cd3-33a90c971210" />.)* 
+*(<img width="200" height="433" alt="image" src="https://github.com/user-attachments/assets/b5791bb0-fd7d-4071-b362-41f30804f328" />.)* 
 
 
 ---
